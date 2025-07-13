@@ -93,3 +93,6 @@ section {
   text-transform: capitalize;
   margin: 0.75rem 0;
 }
+.container-fluid{
+  background: linear-gradient(.60turn, rgb(27, 25, 26), rgb(141, 204, 199));
+}
